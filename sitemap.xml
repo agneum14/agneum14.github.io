@@ -2,14 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>agneum14.github.io/posts/test/</loc>
+    <loc>https://agneum14.github.io/</loc>
   </url><url>
-    <loc>agneum14.github.io/</loc>
+    <loc>https://agneum14.github.io/categories/</loc>
   </url><url>
-    <loc>agneum14.github.io/categories/</loc>
-  </url><url>
-    <loc>agneum14.github.io/posts/</loc>
-  </url><url>
-    <loc>agneum14.github.io/tags/</loc>
+    <loc>https://agneum14.github.io/tags/</loc>
   </url>
 </urlset>
