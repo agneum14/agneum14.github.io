@@ -6,6 +6,7 @@
     <description>Recent content on Andrew&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>© 2023 Andrew G. Neumann</copyright>
     <lastBuildDate>Mon, 30 Jan 2023 15:03:22 -0500</lastBuildDate><atom:link href="https://agneum14.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to Andrew&#39;s personal website</title>
@@ -14,6 +15,15 @@
       
       <guid>https://agneum14.github.io/posts/main/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://agneum14.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agneum14.github.io/about/</guid>
+      <description>#include &amp;lt;stdio.h&amp;gt; int main() { printf(&amp;#34;howdy&amp;#34;); return 0; } As of now, my pursuit of a degree in computer science takes most of my time. Some of my related interests include Linux, system administration and C programming. Away from the computer I enjoy cooking (meats especially), mycology, arm wrestling, lifting, reading, and chess.</description>
     </item>
     
   </channel>
